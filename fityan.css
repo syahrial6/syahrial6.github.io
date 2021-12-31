@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: blueviolet;
+}
+
+.foto {
+  opacity: 0.4;
+}
+
+.display-4 {
+  z-index: 3;
+}
